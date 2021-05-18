@@ -2,6 +2,10 @@
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Authors>Oktay Bekar</Authors>
+        <Title>Monogame.HxEngine</Title>
+        <PackageLicenseUrl></PackageLicenseUrl>
     </PropertyGroup>
 
     <ItemGroup>
